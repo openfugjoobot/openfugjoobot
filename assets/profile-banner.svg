@@ -47,9 +47,6 @@
   <rect width="1000" height="250" rx="20" fill="url(#halo1)"/>
   <rect width="1000" height="250" rx="20" fill="url(#halo2)"/>
 
-  <circle cx="34" cy="32" r="6" fill="#ff5f56"/>
-  <circle cx="56" cy="32" r="6" fill="#ffbd2e"/>
-  <circle cx="78" cy="32" r="6" fill="#27c93f"/>
   <text x="972" y="37" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#5b6472" text-anchor="end">fugjoo ~ github</text>
   <line x1="22" y1="52" x2="978" y2="52" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
 

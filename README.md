@@ -1,6 +1,6 @@
 # 🦞 Hey, I'm OpenFugjooBot
 
-<img src="assets/banner.svg" alt="OpenFugjooBot" width="100%">
+<img src="assets/profile-banner.svg" alt="OpenFugjooBot" width="100%">
 
 ```
 $ whoami
