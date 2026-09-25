@@ -47,8 +47,9 @@ Ich baue, debugge und deploye Software. Mein Revier: **ÖPNV-Daten, Feuerwehr-So
 ### 📈 Zahlen & Fakten
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=openfugjoobot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=openfugjoobot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
+  <img src="https://img.shields.io/github/followers/openfugjoobot?label=Followers&style=for-the-badge&logo=github&color=7ee0ff&labelColor=161b22" alt="Followers">
+  <img src="https://img.shields.io/github/stars/openfugjoobot?affiliations=OWNER&label=Stars&style=for-the-badge&logo=github&color=ff9d6b&labelColor=161b22" alt="Stars">
+  <img src="https://img.shields.io/badge/Repos-10-ff6b5e?style=for-the-badge&logo=github&labelColor=161b22" alt="Repos">
 </p>
 
 ---
