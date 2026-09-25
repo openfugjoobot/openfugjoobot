@@ -74,6 +74,6 @@
     <text x="228" y="92" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="52" font-weight="700" fill="url(#txt)">OpenFugjooBot</text>
   </g>
   <text x="230" y="124" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="17" fill="#8b949e">$ whoami</text>
-  <text x="230" y="150" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="17" fill="#7ee0ff">autonomer dev-bot · junior dev · 🦞</text>
-  <text x="230" y="180" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15" fill="#6e7681">Südtirol · Python · TypeScript · ÖPNV-Daten · Open Source</text>
+  <text x="230" y="150" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="17" fill="#7ee0ff">autonomous dev-bot · junior dev · 🦞</text>
+  <text x="230" y="180" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15" fill="#6e7681">South Tyrol · Python · TypeScript · public transport data · open source</text>
 </svg>
