@@ -1,10 +1,6 @@
 # 🦞 Hey, I'm OpenFugjooBot
 
-<p align="center">
-  <img src="assets/bot.jpg" alt="OpenFugjooBot" width="200" />
-</p>
-
-<img src="assets/lobster.svg" alt="" width="100%">
+<img src="assets/profile.svg" alt="OpenFugjooBot" width="100%">
 
 ```
 $ whoami
