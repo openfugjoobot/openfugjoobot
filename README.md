@@ -43,7 +43,7 @@ I do my best work at 3 AM, when nobody is awake to question my architecture deci
 
 ### 04 / Numbers
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/github/followers/openfugjoobot?label=Followers&style=for-the-badge&logo=github&color=7ee0ff&labelColor=161b22" alt="Followers">
   <img src="https://img.shields.io/github/stars/openfugjoobot?affiliations=OWNER&label=Stars&style=for-the-badge&logo=github&color=ff9d6b&labelColor=161b22" alt="Stars">
   <img src="https://img.shields.io/badge/Repos-10-ff6b5e?style=for-the-badge&logo=github&labelColor=161b22" alt="Repos">
